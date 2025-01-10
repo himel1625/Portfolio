@@ -126,6 +126,10 @@ export const skills = [
         image: 'https://i.ibb.co.com/McsQtXD/Vercel.png',
       },
       {
+        name: 'Netlify',
+        image: 'https://i.ibb.co.com/vxYz50n/netlify.png',
+      },
+      {
         name: 'VS Code',
         image:
           'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519',
@@ -185,16 +189,16 @@ export const projects = [
     // date: 'April 2024 - May 2024',
     description:
       'The Restaurant Management Website is a comprehensive solution designed to streamline restaurant operations and enhance customer engagement. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform offers:',
-    image: 'https://i.ibb.co.com/kcQyDvp/sdfasdfasdfasdfasd.png',
+    image: 'https://i.ibb.co.com/rHwztVj/112025.png',
     detailsImage:
-      'https://i.ibb.co.com/82dqdrc/screencapture-dinemaster-6b18e-web-app-2025-01-09-20-39-47.png',
+      'https://i.ibb.co.com/1RrVQrT/screencapture-dinemaster-6b18e-web-app-all-Foods-2025-01-10-21-43-06.png',
 
     tags: ['React Js', 'MongoDb', 'Node Js', 'Express Js', 'Tailwind Css'],
 
     frontend:
-      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application',
+      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application/tree/main/Frontend',
     backend:
-      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application',
+      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application/tree/main/Backend',
     webapp: 'https://dinemaster-6b18e.web.app',
   },
 ];
