@@ -163,12 +163,35 @@ export const education = [
 export const projects = [
   {
     id: 1,
-    title: 'Green-Sports',
+    title: 'Restaurant Management Website',
+    // date: 'April 2024 - May 2024',
     description:
-      'This responsive e-commerce platform is tailored for sports enthusiasts to explore and purchase a wide range of accessories, including gear and apparel for various sports.',
-    image: 'https://i.ibb.co.com/TRYD7Yn/asdasdasda.png',
-    detailsImage:
-      'https://i.ibb.co.com/94kWQ6N/screencapture-green-sports-4eb7c-web-app-2025-01-09-20-15-25.png',
+      'The Restaurant Management Website is a comprehensive solution designed to streamline restaurant operations and enhance customer engagement. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform offers:',
+    image: 'https://i.ibb.co.com/B3JCFqf/1101.png',
+    detailsImage: 'https://i.ibb.co.com/GFqXP7J/1102.jpg',
+
+    tags: [
+      'React Js',
+      'MongoDb',
+      'Node Js',
+      'Express Js',
+      'Tailwind Css',
+      'React Context API',
+    ],
+
+    frontend:
+      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application/tree/main/Frontend',
+    backend:
+      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application/tree/main/Backend',
+    webapp: 'https://dinemaster-6b18e.web.app',
+  },
+  {
+    id: 2,
+    title: 'Full-Stack-Marketplace-Web-Application',
+    description:
+      'This project is a full-stack web application simulating an online marketplace for job posting and bidding. It connects employers and freelancers in a streamlined, secure, and user-friendly platform.',
+    image: 'https://i.ibb.co.com/RDNfXqf/jb01.png',
+    detailsImage: 'https://i.ibb.co.com/tMCRBrZ/jb02.jpg',
     tags: [
       'React Js',
       'MongoDb',
@@ -176,30 +199,46 @@ export const projects = [
       'Express Js',
       'Firebase',
       'Tailwind Css',
+      'React Context API',
+    ],
+    backend:
+      'https://github.com/himel1625/Full-Stack-Marketplace-Web-Application/tree/main/server',
+    frontend:
+      'https://github.com/himel1625/Full-Stack-Marketplace-Web-Application/tree/main/client',
+    webapp: 'https://solosphere-9150a.web.app',
+  },
+  {
+    id: 3,
+    title: 'Green-Sports',
+    description:
+      'This responsive e-commerce platform is tailored for sports enthusiasts to explore and purchase a wide range of accessories, including gear and apparel for various sports.',
+    image: 'https://i.ibb.co.com/fvLTr42/1001.png',
+    detailsImage: 'https://i.ibb.co.com/GHmfdSM/1002.jpg',
+    tags: [
+      'React Js',
+      'MongoDb',
+      'Node Js',
+      'Express Js',
+      'Firebase',
+      'Tailwind Css',
+      'React Context API',
     ],
 
     backend: 'https://github.com/himel1625/Green-Sports-MongoDB-Server',
     frontend: 'https://github.com/himel1625/Green-Sports-Client',
     webapp: 'https://green-sports-4eb7c.web.app',
   },
-
   {
-    id: 2,
-    title: 'Restaurant Management Website',
-    // date: 'April 2024 - May 2024',
+    id: 4,
+    title: 'Gadget-Heaven',
     description:
-      'The Restaurant Management Website is a comprehensive solution designed to streamline restaurant operations and enhance customer engagement. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform offers:',
-    image: 'https://i.ibb.co.com/rHwztVj/112025.png',
-    detailsImage:
-      'https://i.ibb.co.com/1RrVQrT/screencapture-dinemaster-6b18e-web-app-all-Foods-2025-01-10-21-43-06.png',
+      'GadgetHaven is a responsive e-commerce platform designed specifically for gadget enthusiasts. It offers a user-friendly experience combined with advanced features for efficient shopping.',
+    image: 'https://i.ibb.co.com/T4mRsFH/gh01.png',
+    detailsImage: 'https://i.ibb.co.com/K6VM2sC/gh02.jpg',
+    tags: ['React Js', 'Firebase', 'Tailwind Css', 'React Context API'],
 
-    tags: ['React Js', 'MongoDb', 'Node Js', 'Express Js', 'Tailwind Css'],
-
-    frontend:
-      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application/tree/main/Frontend',
-    backend:
-      'https://github.com/himel1625/Full-Stack-Restaurant-Management-Web-Application/tree/main/Backend',
-    webapp: 'https://dinemaster-6b18e.web.app',
+    frontend: 'https://github.com/himel1625/Gadget-Heaven',
+    webapp: 'https://my-g-h-shop.netlify.app',
   },
 ];
 
