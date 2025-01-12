@@ -9,10 +9,13 @@ export const Bio = {
   description:
     'I am a motivated and adaptable professional with a passion for learning and delivering high-quality results. With a growth mindset and a positive attitude, I’m committed to making meaningful contributions and achieving excellence',
   github: 'https://github.com/himel1625',
-  resume: '*',
+  resume:
+    'https://drive.google.com/file/d/1-VKfeciw7trCRcBGrK3yvej4SMqYYqz1/view?usp=sharing',
   twitter: 'https://x.com/Himel1625',
   facebook: 'https://www.facebook.com/profile.php?id=100078858040957',
-  // linkedin: 'https://www.linkedin.com/in/siyam-ahmed-a5a6b3285/',
+  linkedin: 'https://www.linkedin.com/in/himel-mia',
+  // number: '+8801939827741',
+  number: 'https://wa.me/+8801939827741',
 };
 
 export const skills = [
