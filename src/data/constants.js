@@ -10,7 +10,7 @@ export const Bio = {
     'I am a motivated and adaptable professional with a passion for learning and delivering high-quality results. With a growth mindset and a positive attitude, I’m committed to making meaningful contributions and achieving excellence',
   github: 'https://github.com/himel1625',
   resume:
-    'https://drive.google.com/file/d/1-VKfeciw7trCRcBGrK3yvej4SMqYYqz1/view?usp=sharing',
+    'https://drive.google.com/file/d/1PT6uftqDFV2TOi1UpX7LyoHJjd1oxoAm/view?usp=sharing',
   twitter: 'https://x.com/Himel1625',
   facebook: 'https://www.facebook.com/profile.php?id=100078858040957',
   linkedin: 'https://www.linkedin.com/in/himel-mia',
