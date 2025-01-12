@@ -14,7 +14,6 @@ export const Bio = {
   twitter: 'https://x.com/Himel1625',
   facebook: 'https://www.facebook.com/profile.php?id=100078858040957',
   linkedin: 'https://www.linkedin.com/in/himel-mia',
-  // number: '+8801939827741',
   number: 'https://wa.me/+8801939827741',
 };
 
