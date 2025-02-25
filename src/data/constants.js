@@ -10,10 +10,10 @@ export const Bio = {
     'I am a motivated and adaptable professional with a passion for learning and delivering high-quality results. With a growth mindset and a positive attitude, I’m committed to making meaningful contributions and achieving excellence',
   github: 'https://github.com/himel1625',
   resume:
-    'https://drive.google.com/file/d/1PT6uftqDFV2TOi1UpX7LyoHJjd1oxoAm/view?usp=sharing',
+    'https://drive.google.com/file/d/1yCas8qa9TaGK70s1jXFFFOeKicna0Pxn/view?usp=sharing',
   twitter: 'https://x.com/Himel1625',
   facebook: 'https://www.facebook.com/profile.php?id=100078858040957',
-  linkedin: 'https://www.linkedin.com/in/himel-mia',
+  // linkedin: 'https://www.linkedin.com/in/himel-mia',
   number: 'https://wa.me/+8801939827741',
 };
 
@@ -165,6 +165,30 @@ export const education = [
 export const projects = [
   {
     id: 1,
+    title: 'WorkWave (Employee Management )',
+    // date: 'April 2024 - May 2024',
+    description:
+      'This is the front-end of the Employee Management system, built using React and Tailwind CSS. The application allows employees to manage their tasks and payroll, HR to monitor employees, and Admin to oversee the entire platform. The front-end interacts with the backend to display dynamic data, such as employee tasks, payments, and user authentication.',
+    image: 'https://iili.io/3JTtPJn.jpg',
+    detailsImage: 'https://iili.io/3JTbU8X.jpg',
+
+    tags: [
+      'React Js',
+      'MongoDb',
+      'Node Js',
+      'Express Js',
+      'Tailwind Css',
+      'React Context API',
+      'JWT',
+      'TanStack Query',
+    ],
+
+    frontend: 'https://github.com/himel1625/WorkWave-Front-end',
+    backend: 'https://github.com/himel1625/WorkWave-Backend',
+    webapp: 'https://login-with-eddbb.web.app',
+  },
+  {
+    id: 2,
     title: 'Restaurant Management Website',
     // date: 'April 2024 - May 2024',
     description:
@@ -188,7 +212,7 @@ export const projects = [
     webapp: 'https://dinemaster-6b18e.web.app',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Full-Stack-Marketplace-Web-Application',
     description:
       'This project is a full-stack web application simulating an online marketplace for job posting and bidding. It connects employers and freelancers in a streamlined, secure, and user-friendly platform.',
@@ -210,7 +234,7 @@ export const projects = [
     webapp: 'https://solosphere-9150a.web.app',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Green-Sports',
     description:
       'This responsive e-commerce platform is tailored for sports enthusiasts to explore and purchase a wide range of accessories, including gear and apparel for various sports.',
@@ -231,7 +255,7 @@ export const projects = [
     webapp: 'https://green-sports-4eb7c.web.app',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Gadget-Heaven',
     description:
       'GadgetHaven is a responsive e-commerce platform designed specifically for gadget enthusiasts. It offers a user-friendly experience combined with advanced features for efficient shopping.',
