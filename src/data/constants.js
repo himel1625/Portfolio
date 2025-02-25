@@ -170,7 +170,7 @@ export const projects = [
     description:
       'This is the front-end of the Employee Management system, built using React and Tailwind CSS. The application allows employees to manage their tasks and payroll, HR to monitor employees, and Admin to oversee the entire platform. The front-end interacts with the backend to display dynamic data, such as employee tasks, payments, and user authentication.',
     image: 'https://iili.io/3JTtPJn.jpg',
-    detailsImage: 'https://iili.io/3JTbU8X.jpg',
+    detailsImage: 'hhttps://iili.io/3JTbU8X.jpg',
 
     tags: [
       'React Js',
